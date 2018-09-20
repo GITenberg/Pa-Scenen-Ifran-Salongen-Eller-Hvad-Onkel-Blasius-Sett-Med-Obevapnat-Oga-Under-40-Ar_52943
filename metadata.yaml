@@ -1,0 +1,27 @@
+_repo: Pa-Scenen-Ifran-Salongen-Eller-Hvad-Onkel-Blasius-Sett-Med-Obevapnat-Oga-Under-40-Ar_52943
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bothén, Gustaf Herman
+    aliases:
+    - Bothen, Gustaf Herman
+    - Bothén, Gustav
+    gutenberg_agent_id: '47127'
+    url: http://www.gutenberg.org/2009/agents/47127
+description: ''
+gutenberg_issued: '2016-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52943'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'På Scenen — Ifrån Salongen!
+
+  Eller Hvad Onkel Blasius Sett Med Obeväpnat Öga Under 40 År'
+url: http://www.gutenberg.org/ebooks/52943
