@@ -1,5 +1,8 @@
 _repo: Pa-Scenen-Ifran-Salongen-Eller-Hvad-Onkel-Blasius-Sett-Med-Obevapnat-Oga-Under-40-Ar_52943
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52943-h/images/cover.jpg
 creator:
   author:
     agent_name: Bothén, Gustaf Herman
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47127'
     url: http://www.gutenberg.org/2009/agents/47127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52943#Pa-Scenen-Ifran-Salongen-Eller-Hvad-Onkel-Blasius-Sett-Med-Obevapnat-Oga-Under-40-Ar
 gutenberg_issued: '2016-08-31'
 gutenberg_type: Text
 identifiers:
